@@ -1,0 +1,15 @@
+
+
+body {
+    margin: 0;
+    font-family: "Nunito", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: left;
+    background-color: #f8fafc;
+    /* background-image: url(./layout.png); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
